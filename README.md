@@ -6,11 +6,18 @@ In this project, a review of the book, "Diary Of A Wimpy Kid", is given through 
 
 ### How To Reproduce Project
 
-Execute the following command in the terminal:
+First, please make sure that Unity and Unity Hub are installed. I am on Version 3.0.1 of Unity Hub, and I am using Unity Version 2017.3.0f1.
 
-```
-// TODO
-```
+Execute the following steps to reproduce the project:
+
+1. First, clone the repository via `git clone https://github.com/aadarshjha/arbookproject`, in any directory you would like. 
+2. Then, open Unity Hub (I am using Version 3.0.1), and press the "Open" button under Projects. 
+3. Locate the directory you have cloned, and press the "Open" button.
+4. Unity will open the project. It may take a bit of time to open the project intially. 
+5. Unity will open the project, but you may first encounter an "Untitled Scene". In the left lower pane, under the Assets folder, click on the "Scenes" folder. s
+6. You should see a scene called "BookCover". Click on this scene.
+7. The scene will then open up and you can interact with the project.
+8. Make sure to modify the Build Settings to point to an Android device, or generally any Mobile Device.  
 
 ### Images 
 
