@@ -10,40 +10,26 @@ First, please make sure that Unity and Unity Hub are installed. I am on Version 
 
 Execute the following steps to reproduce the project:
 
-- ***Before cloning this repository****, please make sure you have installed Git LFS (Large File Storage) on your computer. This project was too big to be stored on GitHub, so I used Git LFS to store the project on my computer and on GitHub. Installation instructions may be found here: https://git-lfs.github.com/, note specifically the installation link and the `git lfs install` command.
+***Before cloning this repository**, please make sure you have installed Git LFS (Large File Storage) on your computer. This project was too big to be stored on GitHub, so I used Git LFS to store the project on my computer and on GitHub. Installation instructions may be found here: https://git-lfs.github.com/, note specifically the installation link and the `git lfs install` command.
 
 1. First, clone the repository via `git clone https://github.com/aadarshjha/arbookproject`, in any directory you would like.
-
 2. Then, open Unity Hub (I am using Version 3.0.1), and press the "Open" button under Projects.
-
 3. Locate the directory you have cloned, and press the "Open" button.
-
 4. Unity will open the project. It may take a bit of time to open the project initially.
-
 5. Unity will open the project, but you may first encounter an "Untitled Scene". In the left lower pane, under the Assets folder, click on the "Scenes" folder.
-
 6. You should see a scene called "BookCover". Click on this scene.
-
 7. The scene will then open up and you can interact with the project.
-
 8. Make sure to modify the Build Settings to point to an Android device, or generally any Mobile Device.
-
 9. There is no need to download Vuforia, Assets, or any additional packages since Git LFS (large file storage) is used, so everything is already in the repo for you.
 
-**### Images**
-
+### Images
 First a table of views for the Front Cover may be seen:
 
 <table>
-
 <tr>
-
 <td>
-
 <img src="./readme/1.jpg" alt="Front Cover" width="400" height="400">
-
 </td>
-
 <td>
 
 <img src="./readme/2.jpg" alt="Front Cover" width="400" height="400">
@@ -82,11 +68,11 @@ Then, a table of views for the Back Cover may be seen:
 
 </table>
 
-**### Video**
+### Video
 
 The following link displays a video of the project: https://www.youtube.com/watch?v=cb1DnJJp730
 
-**### Limitations**
+### Limitations
 
 The limitations in this project are primarily the fidelity of the images used. In Vuforia, a score is given to the images, and the higher the score, the higher the fidelity of the image for AR purposes. In particular, the front cover is given a 5 star rating (highest score), but the back cover is given only a 4 star score (out of 5 stars). This is because I was not able to find the best quality, high-resolution image of the back cover (or, at least as good as the front-cover). This is because it is generally difficult to find back cover images.
 
