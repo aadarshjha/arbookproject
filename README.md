@@ -10,7 +10,7 @@ First, please make sure that Unity and Unity Hub are installed. I am on Version 
 
 Execute the following steps to reproduce the project:
 
-***Before cloning this repository**, please make sure you have installed Git LFS (Large File Storage) on your computer. This project was too big to be stored on GitHub, so I used Git LFS to store the project on my computer and on GitHub. Installation instructions may be found here: https://git-lfs.github.com/, note specifically the installation link and the `git lfs install` command.
+**Before cloning this repository**, please make sure you have installed Git LFS (Large File Storage) on your computer. This project was too big to be stored on GitHub, so I used Git LFS to store the project on my computer and on GitHub. Installation instructions may be found here: https://git-lfs.github.com/, note specifically the installation link and the `git lfs install` command.
 
 1. First, clone the repository via `git clone https://github.com/aadarshjha/arbookproject`, in any directory you would like.
 2. Then, open Unity Hub (I am using Version 3.0.1), and press the "Open" button under Projects.
