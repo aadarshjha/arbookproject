@@ -28,17 +28,17 @@ First a table of views for the Front Cover may be seen:
 <table>
 <tr>
 <td>
-<img src="./readme/1.jpg" alt="Front Cover" width="400" height="400">
+<img src="./readme/1.jpg" alt="Front Cover" width="210" height="400">
 </td>
 <td>
 
-<img src="./readme/2.jpg" alt="Front Cover" width="400" height="400">
+<img src="./readme/2.jpg" alt="Front Cover" width="210" height="400">
 
 </td>
 
 <td>
 
-<img src="./readme/3.jpg" alt="Front Cover" width="400" height="400">
+<img src="./readme/3.jpg" alt="Front Cover" width="210" height="400">
 
 </td>
 
