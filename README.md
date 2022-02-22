@@ -1,4 +1,5 @@
 # Project 2: AR Book Cover
+Aadarsh Jha
 
 ### Introduction
 
