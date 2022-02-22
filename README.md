@@ -1,10 +1,10 @@
-**# Project 2: AR Book Cover**
+# Project 2: AR Book Cover
 
-**### Introduction**
+### Introduction
 
 In this project, a review of the book, "Diary Of A Wimpy Kid", is given through the use of AR. In particular, the front of the book is scanned and the user is able to see a virtual scene created, inspired by the general theme of the book. The back of the book can be scanned and will the user can see some salient information about the book. The user can then press a virtual button to then toggle the text, displaying a review of the book.
 
-**### How To Reproduce Project**
+### How To Reproduce Project
 
 First, please make sure that Unity and Unity Hub are installed. I am on Version 3.0.1 of Unity Hub, and I am using Unity Version 2017.3.0f1.
 
