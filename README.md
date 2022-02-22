@@ -6,7 +6,7 @@ In this project, a review of the book, "Diary Of A Wimpy Kid", is given through 
 
 ### How To Reproduce Project
 
-First, please make sure that Unity and Unity Hub are installed. I am on Version 3.0.1 of Unity Hub, and I am using Unity Version 2017.3.0f1.
+First, please make sure that Unity and Unity Hub are installed. I am on Version 3.0.1 of Unity Hub, and I am using Unity Version 2020.3.26f1.
 
 Execute the following steps to reproduce the project:
 
